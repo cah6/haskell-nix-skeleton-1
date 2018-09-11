@@ -1,0 +1,1 @@
+Code to accompany blog post found [here](https://cah6.github.io/technology/nix-haskell-1/).
